@@ -1,4 +1,5 @@
 [
     {"version": "1.0", "status": "OK", "message": "OK"},
-    {"version": "2.0", "status": "OK", "message": "OK"}
+    {"version": "2.0", "status": "OK", "message": "OK"},
+    {"version": "3.0", "status": "OK", "message": "OK"}
 ]
